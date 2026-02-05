@@ -1,6 +1,6 @@
 Still a work in progress. If you have any questions, message 1joon on discord and I will try to help as much as possible.
 
-***A simple tool to adjust your primary monitor's gamma (brightness/contrast) on Windows. Useful for gaming, reducing eye strain, or adjusting display settings on the fly.
+***A simple tool to adjust your primary monitor's gamma (brightness/contrast) on Windows. Useful for gaming, reducing eye strain, or adjusting display settings on the fly. **Or just use it to bypass osu gamma detection lmfao**
 
 ## How to Run
 
